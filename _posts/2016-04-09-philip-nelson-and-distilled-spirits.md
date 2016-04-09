@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Music brought us together. Music is part of what keeps us together. Music takes you out of that ordinary, day to day life and opens you up, lets your feelings flow. It makes life good.\_"
-datePublished: '2016-04-09T19:23:52.813Z'
-dateModified: '2016-04-09T19:22:49.401Z'
+datePublished: '2016-04-09T20:14:26.437Z'
+dateModified: '2016-04-09T19:23:56.588Z'
 title: Philip Nelson and Distilled Spirits
 author: []
+sourcePath: _posts/2016-04-09-philip-nelson-and-distilled-spirits.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-philip-nelson-and-distilled-spirits.md
-published: true
 url: philip-nelson-and-distilled-spirits/index.html
 _context: 'http://schema.org'
 _type: Article
