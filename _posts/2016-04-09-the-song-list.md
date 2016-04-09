@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: The Song List
-datePublished: '2016-04-09T20:00:12.008Z'
-dateModified: '2016-04-09T19:59:03.326Z'
+datePublished: '2016-04-09T20:17:57.658Z'
+dateModified: '2016-04-09T20:16:19.967Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-09-the-song-list.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-the-song-list.md
-published: true
 url: the-song-list/index.html
-_type: Article
+_type: WebPage
 
 ---
 The Song List
