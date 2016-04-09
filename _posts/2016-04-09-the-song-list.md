@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: The Song List
-datePublished: '2016-04-09T20:17:57.658Z'
-dateModified: '2016-04-09T20:16:19.967Z'
-title: ''
+description: The Distilled Spirits Distilled Song List
+datePublished: '2016-04-09T20:31:03.549Z'
+dateModified: '2016-04-09T20:30:49.211Z'
+title: Song List
 author: []
 sourcePath: _posts/2016-04-09-the-song-list.md
 published: true
@@ -22,8 +22,6 @@ url: the-song-list/index.html
 _type: WebPage
 
 ---
-The Song List
-
 ## Make you want to hug someone
 
 Not Dark Yet - Dylan
@@ -36,7 +34,7 @@ I Want You Back - MJ / Civil Wars
 
 ## Make you think
 
-Snow Song - Philip
+Snow Song - Philip Nelson
 
 Fire Water - Buster Williams
 
