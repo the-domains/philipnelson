@@ -12,8 +12,8 @@ description: >-
   returns to performances. Barbara first heard about house concerts on NPR and
   admittedly took awhile to convince me about the concept, but convince me she
   did.
-datePublished: '2016-06-05T20:45:58.100Z'
-dateModified: '2016-06-05T20:44:48.534Z'
+datePublished: '2016-06-05T20:48:13.351Z'
+dateModified: '2016-06-05T20:46:00.358Z'
 title: Flagship Romance
 author:
   - name: ''
@@ -32,7 +32,7 @@ The great thing about house concerts is how intimate they are. You are right the
 
 Enjoy some more snapshots from our concerts
 ![Woody Russel](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bc0c245-5e10-4103-a78e-aada18195b9a.jpg)
+![Our Friends](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cc5580c-7e22-44a9-97fe-51d2a06c0032.jpg)
 ![Geoffrey Keezer and Denise Donatelli](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a6c8819-c1f4-4fcc-8a69-c814f624f31b.jpg)
 ![Matt Szlachetka](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99407271-c5d1-4dc4-85c8-a12ee8c779d2.jpg)
 ![Johnny Azaru](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90fcc364-bb5c-432c-819f-9eb506ee17dd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cc5580c-7e22-44a9-97fe-51d2a06c0032.jpg)
