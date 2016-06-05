@@ -8,8 +8,8 @@ description: >-
   Music brought us together. Music is part of what keeps us together. Music
   takes you out of that ordinary, day to day life and opens you up, lets your
   feelings flow. It makes life good. It just may make you happy.
-datePublished: '2016-06-05T20:47:46.181Z'
-dateModified: '2016-06-05T20:39:51.387Z'
+datePublished: '2016-06-05T20:48:23.898Z'
+dateModified: '2016-06-05T20:47:47.703Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-philip-nelson-and-distilled-spirits.md
