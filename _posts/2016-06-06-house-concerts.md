@@ -12,14 +12,14 @@ description: >-
   returns to performances. Barbara first heard about house concerts on NPR and
   admittedly took awhile to convince me about the concept, but convince me she
   did.
-datePublished: '2016-06-06T12:59:19.216Z'
-dateModified: '2016-06-06T12:59:18.338Z'
+datePublished: '2016-06-06T13:05:17.587Z'
+dateModified: '2016-06-06T13:04:45.327Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-house-concerts.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-house-concerts.md
 url: house-concerts/index.html
 _type: WebPage
 
@@ -29,3 +29,4 @@ We not only perform the music we love, but we love music in general. We wanted t
 The great thing about house concerts is how intimate they are. You are right there, not tens or even hundreds of feet away. The can feel when you are tapping your foot, laugh a little at some humor in the song, sing along. You can feel how moved they are by the intimate connection. This is areal thing, and because of it, even very well known performers like the late Prince, Bela Flek, Cee Lo Green, and Darryl Hall will go out and do house concerts. We get 25 to 50 people we like in our house, and get totally immersed in the music of the performers. All the good food, wine,beer and conversation between sets doesn't hurt either. When it's not during the performances, it is a great party in our house.
 
 Enjoy some more snapshots from our concerts
+![Flagship Romance](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb482c68-ced3-45ae-badf-ce083d0acf40.jpg)
