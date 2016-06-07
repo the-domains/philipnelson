@@ -12,8 +12,8 @@ description: >-
   returns to performances. Barbara first heard about house concerts on NPR and
   admittedly took awhile to convince me about the concept, but convince me she
   did.
-datePublished: '2016-06-06T13:09:19.634Z'
-dateModified: '2016-06-06T13:09:04.004Z'
+datePublished: '2016-06-07T02:26:59.181Z'
+dateModified: '2016-06-07T02:26:45.876Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-house-concerts.md
@@ -30,3 +30,5 @@ The great thing about house concerts is how intimate they are. You are right the
 
 Enjoy some more snapshots from our concerts
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/022ccbdf-8102-47c8-9346-34f8078fcffc.jpg)
+![Geoffrey Keezer and Denise Donatelli with fans](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a114c4a8-6de4-4a3f-b358-174a2e9aac04.jpg)
+![Flagship Romance](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26841b50-1e24-49b2-89ae-ce705845be3e.jpg)
