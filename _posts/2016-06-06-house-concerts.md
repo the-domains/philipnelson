@@ -1,7 +1,7 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -12,8 +12,8 @@ description: >-
   returns to performances. Barbara first heard about house concerts on NPR and
   admittedly took awhile to convince me about the concept, but convince me she
   did.
-datePublished: '2016-06-07T02:53:38.172Z'
-dateModified: '2016-06-07T02:27:05.184Z'
+datePublished: '2016-07-10T18:03:43.002Z'
+dateModified: '2016-07-10T17:24:12.819Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-house-concerts.md
@@ -21,7 +21,7 @@ authors: []
 publisher: null
 starred: false
 url: house-concerts/index.html
-_type: WebPage
+_type: Article
 
 ---
 We not only perform the music we love, but we love music in general. We wanted to be a part of the post "Get a record deal" era where very few people can make a living selling CD's anymore. The good news for fans, and honestly for a larger number of musicians, there is that the emphasis for making a living returns to performances. Barbara first heard about house concerts on NPR and admittedly took awhile to convince me about the concept, but convince me she did.
