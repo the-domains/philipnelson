@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  Music brought us together. Music is part of what keeps us together. Music
-  takes you out of that ordinary, day to day life and opens you up, lets your
-  feelings flow. It makes life good. It just may make you happy.
-datePublished: '2016-06-07T02:56:17.077Z'
-dateModified: '2016-06-07T02:54:38.693Z'
+  Music is part of you, and who you think you are. Music launches you out of
+  that ordinary, day to day life and opens you up, lets your feelings flow. It
+  makes life good. We just may make you happy with our music.
+datePublished: '2016-07-10T15:50:14.388Z'
+dateModified: '2016-07-10T15:30:12.576Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-philip-nelson-and-distilled-spirits.md
@@ -21,7 +21,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Music brought us together. Music is part of what keeps us together. Music takes you out of that ordinary, day to day life and opens you up, lets your feelings flow. It makes life good. It just may make you happy.
+Music is part of you, and who you think you are. Music launches you out of that ordinary, day to day life and opens you up, lets your feelings flow. It makes life good. We just may make you happy with our music.
 
 Barbara Richmond does most of the singing. She starting singing professionally while still in high school, performing and touring a lot in those early years both as either the lead singer or the backup singer. She is a lover of songs: a song is born first of the lyrics and then from that special bond between the words, the vowels and the melody only a great songwriter can pull off. She grew up listening to rock and roll, R&B, folk country music at her parent's small town tavern, but sang more in country and folk styles early on. Now, all of these influences are coming out in Distilled Spirit's song choices. 
 
