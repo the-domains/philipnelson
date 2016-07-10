@@ -8,8 +8,8 @@ description: >-
   Music is part of you, and who you think you are. Music launches you out of
   that ordinary, day to day life and opens you up, lets your feelings flow. It
   makes life good. We just may make you happy with our music.
-datePublished: '2016-07-10T17:54:48.388Z'
-dateModified: '2016-07-10T17:21:14.719Z'
+datePublished: '2016-07-10T18:29:44.060Z'
+dateModified: '2016-07-10T18:29:29.708Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-philip-nelson-and-distilled-spirits.md
@@ -21,6 +21,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78bd4871-a59b-4063-a2ab-e1f398ad9c70.jpg)
+
 Music is part of you, and who you think you are. Music launches you out of that ordinary, day to day life and opens you up, lets your feelings flow. It makes life good. We just may make you happy with our music.
 
 Barbara Richmond does most of the singing. She starting singing professionally while still in high school, performing and touring a lot in those early years both as either the lead singer or the backup singer. She is a lover of songs: a song is born first of the lyrics and then from that special bond between the words, the vowels and the melody only a great songwriter can pull off. She grew up listening to rock and roll, R&B, folk country music at her parent's small town tavern, but sang more in country and folk styles early on. Now, all of these influences are coming out in Distilled Spirit's song choices. 
