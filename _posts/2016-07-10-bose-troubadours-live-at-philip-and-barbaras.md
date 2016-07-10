@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Bose Troubadours '
-datePublished: '2016-07-10T15:54:24.102Z'
-dateModified: '2016-07-10T15:49:56.117Z'
+datePublished: '2016-07-10T17:09:36.056Z'
+dateModified: '2016-07-10T17:09:16.309Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-10-bose-troubadours-live-at-philip-and-barbaras.md
@@ -41,10 +41,27 @@ For singer/songwriters Jamie Kent, Matthew Szlachetka, Jeff Campbell and Megan S
 
 Matthew, Jamie, Megan, and Jeff are already dynamic individuals in their own right, but when united on stage in a free-flowing smorgasbord of music, laughter, and banter, the energy of the room crackled with a compelling warmth and camaraderie. The crowd was held spellbound through the entire evening as the four troubadours plied their trade
 
-[RSVP Here][1]
+**[RSVP Here][1]**
+
+Here are some videos or recordings of the group. They are almost like a compiliation cd: even live they perform sometimes alone, in duo, trio or quartet form so everything you see reflects that. 
+
+[A cover of "Helplessly Hoping"][2]
+
+[An original of Jamie's "Broke, Not Broken"][3]
+
+[Megan][4]
+
+[Jeff][5]
+
+[Matt][6]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86ce27ab-dbff-457b-8727-b66446047c7b.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f76199c5-c8c1-47f0-9364-70746a731ad3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86e72928-6f6c-4131-9b19-8de15299dbf2.jpg)
 
 [0]: http://-axs.com/
 [1]: http://goo.gl/forms/xsGf63mD58WVW6PJ2
+[2]: https://youtu.be/ORF5rdxPM7c
+[3]: https://youtu.be/tflY6kAf74Q
+[4]: https://soundcloud.com/tom-moore-71/sets/megan-slankard
+[5]: https://soundcloud.com/jeffcampbellmusic/01-the-movies
+[6]: https://soundcloud.com/telefunken-elektroakustik/sets/matt-szlachetka-live-from-the-lab-telefunken
