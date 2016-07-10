@@ -8,10 +8,12 @@ description: >-
   Music is part of you, and who you think you are. Music launches you out of
   that ordinary, day to day life and opens you up, lets your feelings flow. It
   makes life good. We just may make you happy with our music.
-datePublished: '2016-07-10T18:48:38.040Z'
-dateModified: '2016-07-10T18:48:05.639Z'
+datePublished: '2016-07-10T19:10:05.163Z'
+dateModified: '2016-07-10T19:10:03.691Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-09-philip-nelson-and-distilled-spirits.md
 authors: []
 publisher: null
@@ -21,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78bd4871-a59b-4063-a2ab-e1f398ad9c70.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0aa8f6fc8004a7e83d1803c50f3e1404/croprotate.jpg?cropheight=691&cropwidth=1440&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F78bd4871-a59b-4063-a2ab-e1f398ad9c70.jpg&x=0&y=0)
 
 Music is part of you, and who you think you are. Music launches you out of that ordinary, day to day life and opens you up, lets your feelings flow. It makes life good. We just may make you happy with our music.
 
