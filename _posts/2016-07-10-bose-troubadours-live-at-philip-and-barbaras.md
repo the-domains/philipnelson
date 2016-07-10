@@ -1,20 +1,20 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Bose Troubadours '
-datePublished: '2016-07-10T15:08:33.824Z'
-dateModified: '2016-07-10T15:08:13.175Z'
+datePublished: '2016-07-10T15:49:47.283Z'
+dateModified: '2016-07-10T15:49:24.930Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-10-bose-troubadours-live-at-philip-and-barbaras.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-10-bose-troubadours-live-at-philip-and-barbaras.md
 url: bose-troubadours-live-at-philip-and-barbaras/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fd3b316-c586-463e-bcf4-79c5a47ab0dd.jpg)
@@ -44,8 +44,6 @@ Matthew, Jamie, Megan, and Jeff are already dynamic individuals in their own rig
 [RSVP Here][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86ce27ab-dbff-457b-8727-b66446047c7b.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f76199c5-c8c1-47f0-9364-70746a731ad3.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86e72928-6f6c-4131-9b19-8de15299dbf2.jpg)
 
 [0]: http://-axs.com/
