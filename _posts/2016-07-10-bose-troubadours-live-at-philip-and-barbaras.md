@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Bose Troubadours '
-datePublished: '2016-07-10T15:49:47.283Z'
-dateModified: '2016-07-10T15:49:24.930Z'
+datePublished: '2016-07-10T15:54:24.102Z'
+dateModified: '2016-07-10T15:49:56.117Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-10-bose-troubadours-live-at-philip-and-barbaras.md
