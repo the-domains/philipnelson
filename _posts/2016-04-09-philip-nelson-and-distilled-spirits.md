@@ -8,8 +8,8 @@ description: >-
   Music is part of you, and who you think you are. Music launches you out of
   that ordinary, day to day life and opens you up, lets your feelings flow. It
   makes life good. We just may make you happy with our music.
-datePublished: '2016-07-10T18:44:31.930Z'
-dateModified: '2016-07-10T18:44:28.039Z'
+datePublished: '2016-07-10T18:48:38.040Z'
+dateModified: '2016-07-10T18:48:05.639Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-philip-nelson-and-distilled-spirits.md
@@ -25,8 +25,8 @@ _type: Article
 
 Music is part of you, and who you think you are. Music launches you out of that ordinary, day to day life and opens you up, lets your feelings flow. It makes life good. We just may make you happy with our music.
 
-Barbara Richmond does most of the singing. She starting singing professionally while still in high school, performing and touring a lot in those early years both as either the lead singer or the backup singer. She is a lover of songs: a song is born first of the lyrics and then from that special bond between the words, the vowels and the melody only a great songwriter can pull off. She grew up listening to rock and roll, R&B, folk country music at her parent's small town tavern, but sang more in country and folk styles early on. Now, all of these influences are coming out in Distilled Spirit's song choices. 
+Barbara Richmond does most of the singing. She starting singing professionally while still in high school, performing and touring a lot in those early years both as either the lead singer or the backup singer. She is a lover of songs: a song is born first of the lyrics and then from that special bond between the words, the vowels and the melody only a great songwriter can pull off. She grew up listening to rock and roll, R&B, folk and country music at her parent's small town tavern, but sang more in country and folk styles early on. Now, all of these influences are coming out in Distilled Spirit's song choices. 
 
 Guitarist Philip Nelson also started playing professionally in high school but after an early infatuation with Jimmy Page, was drawn especially to jazz with a heavy side dose of horn bands, funk, R&B and blues. He has been performing in both jazz settings and funky electric band settings for decades now. Musically, he doesn't like to get pinned down, and likes a night to jump from a rich repertoire that incorporates many of the wonderful things you can actually do on a guitar. In Distilled Spirits this is really put to the test: playing all the instrumental parts, a bass drum stomp box, a looper and singing. 
 
-Our song list is pulled from Barbara's playlists that are eclectic and represent what we like when we listen to music. These days, more and more people are like us, not wanting to listen to just one kind of thing when the world is serving up this delicious menu of choices from all over the world and just a click away. Think having your favorite starter, main course, dessert, after dinner drink and how we are ok with the whole thing. Don't starve yourself man!
+Our song list is pulled from Barbara's playlists that are eclectic and represent what we like when we listen to music. These days, more and more people are like us, not wanting to listen to just one kind of thing when the world is serving up this delicious menu of choices from all over the world and just a click away. Think having your favorite starter, main course, dessert, after dinner drink and how we are OK with the whole thing. Don't starve yourself man!
