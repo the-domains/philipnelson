@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
@@ -15,17 +15,17 @@ description: >-
   virtuosity and sheer musical wit and intelligence to weave all of his
   apparently disparate strands of influence into an original and compelling
   whole” (Time Magazine). ...
-datePublished: '2016-08-01T12:23:46.542Z'
-dateModified: '2016-08-01T12:23:41.749Z'
+datePublished: '2016-08-01T12:27:39.152Z'
+dateModified: '2016-08-01T12:24:50.671Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-01-geoffrey-keezer-and-gillian-margot.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-01-geoffrey-keezer-and-gillian-margot.md
 url: geoffrey-keezer-and-gillian-margot/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80ab8f6e-c82c-4169-9d46-102240dd522c.jpg)
