@@ -12,8 +12,8 @@ description: >-
   returns to performances. Barbara first heard about house concerts on NPR and
   admittedly took awhile to convince me about the concept, but convince me she
   did.
-datePublished: '2016-07-10T18:10:00.807Z'
-dateModified: '2016-07-10T18:09:51.975Z'
+datePublished: '2016-08-17T15:48:27.810Z'
+dateModified: '2016-07-10T18:10:06.339Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-house-concerts.md
