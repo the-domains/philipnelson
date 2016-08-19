@@ -28,6 +28,9 @@ navigation:
   - name: Home
     id: 64b7b447-d796-4740-8ea2-5caa064736c3
     type: content
+  - name: Schedule
+    id: a877caef-c6b9-401a-8094-9c8c79219e71
+    type: content
 favicon: null
 title: Philip Nelson and Distilled Spirits
 purpose: []
