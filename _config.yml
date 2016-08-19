@@ -40,6 +40,9 @@ navigation:
   - name: Geoffrey Keezer and Gillian Margot
     id: 7641c601-8b12-4ed4-87af-746f6dcb75b1
     type: content
+  - name: Our House Concerts
+    id: 49855f10-0f96-4ac5-960d-14854a33baad
+    type: content
 favicon: null
 title: Philip Nelson and Distilled Spirits
 purpose: []
