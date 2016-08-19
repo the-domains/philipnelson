@@ -34,6 +34,9 @@ navigation:
   - name: Demos
     id: 1233515d-9263-474c-ac94-25818dede2ee
     type: content
+  - name: Distilled Song List
+    id: e0ae5482-b16f-4370-91ff-c5da0c1b9858
+    type: content
 favicon: null
 title: Philip Nelson and Distilled Spirits
 purpose: []
