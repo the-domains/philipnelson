@@ -31,6 +31,9 @@ navigation:
   - name: Schedule
     id: a877caef-c6b9-401a-8094-9c8c79219e71
     type: content
+  - name: Demos
+    id: 1233515d-9263-474c-ac94-25818dede2ee
+    type: content
 favicon: null
 title: Philip Nelson and Distilled Spirits
 purpose: []
