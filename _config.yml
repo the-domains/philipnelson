@@ -1,4 +1,3 @@
-layout_spectrum: 0.31240392476320267
 typography_spectrum: 0.7201582631096244
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.31240392476320267
 analytics:
   google: null
   facebook: null
@@ -36,9 +36,6 @@ navigation:
     type: content
   - name: Distilled Song List
     id: e0ae5482-b16f-4370-91ff-c5da0c1b9858
-    type: content
-  - name: Geoffrey Keezer and Gillian Margot
-    id: 7641c601-8b12-4ed4-87af-746f6dcb75b1
     type: content
   - name: Our House Concerts
     id: 49855f10-0f96-4ac5-960d-14854a33baad
