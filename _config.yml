@@ -1,4 +1,3 @@
-layout_spectrum: 0.9454294228926301
 typography_spectrum: 0.06433029798790812
 color:
   brandColors:
@@ -15,11 +14,12 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9454294228926301
 analytics:
   google: null
   facebook: null
   twitter: null
-name: PhilipNelson
+name: Distilled Spirits
 cta:
   domain: null
   bucket: null
