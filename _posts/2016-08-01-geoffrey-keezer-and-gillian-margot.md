@@ -15,8 +15,8 @@ description: >-
   virtuosity and sheer musical wit and intelligence to weave all of his
   apparently disparate strands of influence into an original and compelling
   whole” (Time Magazine). ...
-datePublished: '2016-08-19T18:27:01.449Z'
-dateModified: '2016-08-19T18:27:00.935Z'
+datePublished: '2016-08-31T12:33:42.200Z'
+dateModified: '2016-08-17T15:56:26.671Z'
 title: ''
 author: []
 via: {}
