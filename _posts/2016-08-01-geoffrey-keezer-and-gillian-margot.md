@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T12:43:05.472Z'
+datePublished: '2016-08-31T12:47:09.380Z'
 sourcePath: _posts/2016-08-01-geoffrey-keezer-and-gillian-margot.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T12:43:05.052Z'
+dateModified: '2016-08-31T12:47:08.979Z'
 title: ''
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ description: >-
   Christian McBride or vibes master Joe Locke, Geoffrey “has more than enough
   virtuosity and sheer musical wit and intelligence to weave all of his
   apparently disparate strands of influence into an original and compelling
-  whole” (Time Magazine). 
+  whole” (Time Magazine).
 inLanguage: null
 inNav: true
 starred: false
@@ -28,10 +28,11 @@ url: geoffrey-keezer-and-gillian-margot/index.html
 _type: WebPage
 
 ---
-From [Geoffrey's website][0]: "With his highly regarded discography, unique compositions, and acclaimed performances in a variety of configurations, pianist Geoffrey Keezer commands the attention typically reserved for the living legends of jazz. Whether recording with jazzy chanteuses Diana Krall or Dianne Reeves, touring with trumpet king Chris Botti, or collaborating with pop icon Sting, sax legend Wayne Shorter, guitar wizard Jim Hall, star bassist Christian McBride or vibes master Joe Locke, Geoffrey "has more than enough virtuosity and sheer musical wit and intelligence to weave all of his apparently disparate strands of influence into an original and compelling whole" (Time Magazine). 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acb483de-122e-4b57-a324-67a4e6942bc1.jpg)
+
+From [Geoffrey's website][0]: "With his highly regarded discography, unique compositions, and acclaimed performances in a variety of configurations, pianist Geoffrey Keezer commands the attention typically reserved for the living legends of jazz. Whether recording with jazzy chanteuses Diana Krall or Dianne Reeves, touring with trumpet king Chris Botti, or collaborating with pop icon Sting, sax legend Wayne Shorter, guitar wizard Jim Hall, star bassist Christian McBride or vibes master Joe Locke, Geoffrey "has more than enough virtuosity and sheer musical wit and intelligence to weave all of his apparently disparate strands of influence into an original and compelling whole" (Time Magazine).
 
 Geoffrey Keezer's singular style of intellectually abstract lyricism woven over exotically complex rhythms and harmonies makes him one of the most sought-after artists on the modern jazz scene. Regardless of the nature of his projects, from solo to duo to quartet, from bandleader to big band, from post bop jazz to electronica to global fusion, from composer to arranger, Geoffrey delivers music from the heart of the piano to the ear--and heart--of the listener."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80ab8f6e-c82c-4169-9d46-102240dd522c.jpg)
 
 In our first season, the concert that left everyone thinking "did that really just happen?" was [Geoffrey Keezer][0] and Denise Donatelli. We squeezed an inconceivable number of people into a concert that showed heartbreaking tenderness, amazing virtuosity, light hearted playfulness, and depth you rarely hear. Geoffrey is back, this time with jazz/r&b singer [Gillian Margot][1]. Gillian, like Denise before her, was unknown to us, but it didn't take many listens to know it was going to be amazing! So listen:
 
