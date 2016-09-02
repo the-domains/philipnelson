@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T16:00:02.447Z'
+datePublished: '2016-08-31T12:56:10.822Z'
 sourcePath: _posts/2016-07-10-bose-troubadours-live-at-philip-and-barbaras.md
 inFeed: false
 authors: []
@@ -7,10 +7,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-17T16:00:01.915Z'
-title: ''
+dateModified: '2016-08-31T12:56:10.436Z'
+title: Bose Troubadours
 publisher: {}
-description: Bose Troubadours
+description: >-
+  "A one-of-a-kind spectacular songwriter event where each artist let his or her
+  individual style radiate from the stage during the unique and engaging concert
+  experience."
 inLanguage: null
 inNav: true
 starred: false
@@ -18,7 +21,7 @@ url: bose-troubadours-live-at-philip-and-barbaras/index.html
 _type: WebPage
 
 ---
-Bose Troubadours
+## Bose Troubadours
 
 "A one-of-a-kind spectacular songwriter event where each artist let his or her individual style radiate from the stage during the unique and engaging concert experience."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fd3b316-c586-463e-bcf4-79c5a47ab0dd.jpg)
