@@ -1,9 +1,15 @@
 ---
-inFeed: true
+datePublished: '2016-08-31T12:34:05.938Z'
+sourcePath: _posts/2016-08-01-geoffrey-keezer-and-gillian-margot.md
+inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T12:34:05.364Z'
+title: ''
+publisher: {}
 description: >-
   From Geoffrey's website: "With his highly regarded discography, unique
   compositions, and acclaimed performances in a variety of configurations,
@@ -15,32 +21,25 @@ description: >-
   virtuosity and sheer musical wit and intelligence to weave all of his
   apparently disparate strands of influence into an original and compelling
   whole” (Time Magazine). ...
-datePublished: '2016-08-31T12:33:42.200Z'
-dateModified: '2016-08-17T15:56:26.671Z'
-title: ''
-author: []
-via: {}
-sourcePath: _posts/2016-08-01-geoffrey-keezer-and-gillian-margot.md
-authors: []
-publisher: {}
+inLanguage: null
+inNav: true
 starred: false
 url: geoffrey-keezer-and-gillian-margot/index.html
-_type: Article
+_type: WebPage
 
 ---
+From [Geoffrey's website][0]: "With his highly regarded discography, unique compositions, and acclaimed performances in a variety of configurations, pianist Geoffrey Keezer commands the attention typically reserved for the living legends of jazz. Whether recording with jazzy chanteuses Diana Krall or Dianne Reeves, touring with trumpet king Chris Botti, or collaborating with pop icon Sting, sax legend Wayne Shorter, guitar wizard Jim Hall, star bassist Christian McBride or vibes master Joe Locke, Geoffrey "has more than enough virtuosity and sheer musical wit and intelligence to weave all of his apparently disparate strands of influence into an original and compelling whole" (Time Magazine). ...
+
+Geoffrey Keezer's singular style of intellectually abstract lyricism woven over exotically complex rhythms and harmonies makes him one of the most sought-after artists on the modern jazz scene. Regardless of the nature of his projects, from solo to duo to quartet, from bandleader to big band, from post bop jazz to electronica to global fusion, from composer to arranger, Geoffrey delivers music from the heart of the piano to the ear--and heart--of the listener."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80ab8f6e-c82c-4169-9d46-102240dd522c.jpg)
 
 In our first season, the concert that left everyone thinking "did that really just happen?" was [Geoffrey Keezer][0] and Denise Donatelli. We squeezed an inconceivable number of people into a concert that showed heartbreaking tenderness, amazing virtuosity, light hearted playfulness, and depth you rarely hear. Geoffrey is back, this time with jazz/r&b singer [Gillian Margot][1]. Gillian, like Denise before her, was unknown to us, but it didn't take many listens to know it was going to be amazing! So listen:
 
-[Live at PianoForte studio. ][2] Note that Gillian comes in about 25 minutes into the session
+[Live at PianoForte studio.][2] Note that Gillian comes in about 25 minutes into the session
 
 [More Gillian and Geoffrey][3]
 
 This one like very likely to fill fast so [RSVP here ][4]to lock in your seat now
-
-From [Geoffrey's website][0]: "With his highly regarded discography, unique compositions, and acclaimed performances in a variety of configurations, pianist Geoffrey Keezer commands the attention typically reserved for the living legends of jazz. Whether recording with jazzy chanteuses Diana Krall or Dianne Reeves, touring with trumpet king Chris Botti, or collaborating with pop icon Sting, sax legend Wayne Shorter, guitar wizard Jim Hall, star bassist Christian McBride or vibes master Joe Locke, Geoffrey "has more than enough virtuosity and sheer musical wit and intelligence to weave all of his apparently disparate strands of influence into an original and compelling whole" (Time Magazine). ...
-
-Geoffrey Keezer's singular style of intellectually abstract lyricism woven over exotically complex rhythms and harmonies makes him one of the most sought-after artists on the modern jazz scene. Regardless of the nature of his projects, from solo to duo to quartet, from bandleader to big band, from post bop jazz to electronica to global fusion, from composer to arranger, Geoffrey delivers music from the heart of the piano to the ear--and heart--of the listener."
 
 From [Gillian's web site][1]: "Gillian Margot is the rarest sort of singer -- the kind that makes people sit up and listen. She has an exquisite voice, a disarmingly wide range and a style that is deeply rooted in the tradition of the great jazz vocalists, yet she possesses a gift of storytelling and emotionally intelligent lyrical delivery that is refreshingly free of "jazz singer" clichés. Trained as a vocalist, multi-instrumentalist and dancer, Ms. Margot feels equally at home in the musical worlds of jazz, R&B and pop, and offers a stage presence and confidence honed through years performing major venues throughout several time zones with top-tier talent from several continents.
 
