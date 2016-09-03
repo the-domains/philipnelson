@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T12:57:10.677Z'
+datePublished: '2016-08-31T13:00:56.946Z'
 sourcePath: _posts/2016-06-06-house-concerts.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T12:57:10.029Z'
+dateModified: '2016-08-31T13:00:56.496Z'
 title: Our House Concerts
 publisher: {}
 description: >-
